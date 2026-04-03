@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <rect width="1200" height="630" fill="#f3f4f6"/>
+  <rect x="60" y="60" width="1080" height="510" rx="20" fill="#ffffff"/>
+  <text x="120" y="240" font-family="Inter, Arial, sans-serif" font-size="72" fill="#111">Apples & Trees</text>
+  <text x="120" y="330" font-family="Inter, Arial, sans-serif" font-size="28" fill="#444">Poems & essays on family, memory and identity</text>
+</svg>
